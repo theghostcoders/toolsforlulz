@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "=== Grand Fantasia Logs Deverbose 1.0 ==="
+echo "Cleaning logs verbosity"
+
+find . -name "*.log.*" | xargs -I{} sed -i '/{Main Loop}/d;/{Network I\/O}/d' {}
+
+echo "Logs cleaned, ready to read :)"
+
