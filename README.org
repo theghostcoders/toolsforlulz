@@ -4,6 +4,8 @@
   This is the *tools for lulz.* A group of tools to help you to tweak and manage even better your server.
 
 * Contains
+  - NPC Creator Tool (work in progress)
+  - Scene Manager (work in progress)
   - dvloger
   - ?
   - to-be-continued
