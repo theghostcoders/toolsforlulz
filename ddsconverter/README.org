@@ -1,7 +1,7 @@
 #+TITLE: DDS converter
 
 * Introduction
-  This is a tool for converting dds to png and vice versa.\
+  This is a tool for converting dds to png and vice versa.
   I initially made this for UI modification but this fits other needs too.
 
   This script runs on linux.
