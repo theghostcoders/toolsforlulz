@@ -4,7 +4,7 @@ This Repository contains some useful SQL Queries you can use to create GM Tools 
 All help is appreciated on this documentation.
 
 
-*Ultimates' Query:*
+*Ultimates' Query:
 
 
 #+BEGIN_SRC sql
