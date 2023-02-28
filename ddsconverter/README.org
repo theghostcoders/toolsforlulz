@@ -19,10 +19,10 @@
 
 * Example usage:
 - If I want to convert dds to png:
-  1. Create *dds* and *png* dirs inside my /home/user/ dir.
+  1. Create *dds* and *png* dirs inside my /home/user dir.
   2. Paste my dds files inside dds folder.
-  3. Paste my ddsconverters.sh in my //home/user/ dir.
+  3. Paste my ddsconverters.sh in my /home/user dir.
   4. In my terminal: =chmod +x ddsconverters.sh=
   5. =./ddsconverters.sh=
   6. Press *1* and *Enter* (to select [1] - DDS to PNG)
-  7. Wait for conversion, my converted files will be located in /home/user/png/ dir.  
+  7. Wait for conversion, my converted files will be located in /home/user/png dir.  
