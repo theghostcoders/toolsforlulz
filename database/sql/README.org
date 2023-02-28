@@ -1,0 +1,39 @@
+*SQL Query:*
+
+This Repository contains some useful SQL Queries you can use to create GM Tools and or to manage your server.
+All help is appreciated on this documentation.
+
+
+***Ultimates' Query:***
+
+
+#+BEGIN_SRC sql
+UPDATE public.advanced_ability
+SET effect_id=63016, point=100
+WHERE player_id=200000001;
+#+END_SRC
+
+****Optimal values:****
+
+| EFFECT_ID | EFFECT             |
+|     63016 | **HP+24**          |
+|     63017 | **MP+10**          |
+|     63018 | **ATK+13 ATKD+10** |
+|     63019 | **ATKM+10**        |
+|     63020 | **DEF+6**          |
+|     63021 | **DEFM+5**         |
+|     63022 | **FOR+1**          |
+|     63023 | **VIT+1**          |
+|     63024 | **INT+1**          |
+|     63025 | **WIL+1**          |
+|     63026 | **AGI+1**          |
+|     65001 | **FOR+3**          |
+|     65002 | **VIT+3**          |
+|     65003 | **INT+3**          |
+|     65004 | **WIL+3**          |
+|     65005 | **AGI+3**          |
+|     65006 | **FOR+6**          |
+|     65007 | **VIT+6**          |
+|     65008 | **INT+6**          |
+|     65009 | **WIL+6**          |
+|     65010 | **AGI+6**          |
